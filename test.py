@@ -1,1 +1,3 @@
-print('hello world')
+import sys
+
+print(type(sys.argv[1]))
